@@ -1,1 +1,1 @@
-This folder contains solutions for Part 3 - Data Warehouse and Analytics 
+This folder contains solutions for Part 3 - Data Warehouse and Analytics including Task 3.1: Star Schema Design Documentation, Task 3.2: Star Schema Implementation and Task 3.3: OLAP Analytics Queries.
