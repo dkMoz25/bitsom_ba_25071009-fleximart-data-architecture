@@ -1,1 +1,1 @@
-
+This folder contains solutions for Task 1.1: ETL Pipeline Implementation (etl_pipeline.py), Task 1.2: Schema Documentation (schema_documentation.md) and Task 1.3: Business Query Implementation (business_queries.sql)
