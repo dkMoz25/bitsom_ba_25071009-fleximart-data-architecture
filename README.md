@@ -1,8 +1,11 @@
 # FlexiMart Data Architecture Project
 
 **Student Name:** Dhiraj Kumar Singh
+
 **Student ID:** bitsom_ba_25071009
+
 **Email:** singhdhiraj255@gmail.com
+
 **Date:** 8th Jan'26
 
 ## Project Overview
