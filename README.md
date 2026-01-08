@@ -3,7 +3,7 @@
 **Student Name:** Dhiraj Kumar Singh
 **Student ID:** bitsom_ba_25071009
 **Email:** singhdhiraj255@gmail.com
-**Date:** 2026-01-08
+**Date:** 8th Jan'26
 
 ## Project Overview
 
@@ -31,35 +31,6 @@
 - Python 3.x, pandas, mysql-connector-python
 - MySQL 8.0 / PostgreSQL 14
 - MongoDB 6.0
-
-## Setup Instructions
-
-### Database Setup
-
-```bash
-# Create databases
-mysql -u root -p -e "CREATE DATABASE fleximart;"
-mysql -u root -p -e "CREATE DATABASE fleximart_dw;"
-
-# Run Part 1 - ETL Pipeline
-python part1-database-etl/etl_pipeline.py
-
-# Run Part 1 - Business Queries
-mysql -u root -p fleximart < part1-database-etl/business_queries.sql
-
-# Run Part 3 - Data Warehouse
-mysql -u root -p fleximart_dw < part3-datawarehouse/warehouse_schema.sql
-mysql -u root -p fleximart_dw < part3-datawarehouse/warehouse_data.sql
-mysql -u root -p fleximart_dw < part3-datawarehouse/analytics_queries.sql
-
-
-### MongoDB Setup
-
-mongosh < part2-nosql/mongodb_operations.js
-
-## Key Learnings
-
-[3-4 sentences on what you learned]
 
 ## Challenges Faced
 
